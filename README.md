@@ -5,11 +5,11 @@
 
 <!-- Education -->
 ## 📚 Education
-- Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/Air%20University-Islamabad-green)](https://au.edu.pk)
+- Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/just%20the%20AIR%20University%20Islamabad-8A2BE2)](https://au.edu.pk)
 
 <!-- Portfolio Website -->
 ## 💼 Portfolio Website
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-green)]()
+- [![Portfolio Website](https://img.shields.io/badge/just%20the%20Portfolio-8A2BE2])()
 
 <!-- Interests -->
 ## 🎯 Interests
@@ -55,12 +55,8 @@
 
 <!-- Contact Details -->
 ## 📧 Contact Details
-- Email: [![contact.mhayat@gmail.com](https://img.shields.io/badge/Email-contact.mhayat%40gmail.com-green)](mailto:contact.mhayat@gmail.com)
-- LinkedIn: [![Muhammad Hayat Ishfaq](https://img.shields.io/badge/LinkedIn-Muhammad%20Hayat%20Ishfaq-green)](https://www.linkedin.com/in/hayat-ishfaq)
-
-<!-- Hire me at -->
-## 💼 Hire me at
-- Upwork: [![Muhamamd Hayat Ishfaq on Upwork](https://img.shields.io/badge/Upwork-Muhammad%20Hayat%20Ishfaq-green)](https://www.upwork.com/freelancers/~01594fd50ef4fcbc0d?mp_source=share)
+- Email: [![contact.mhayat@gmail.com](https://img.shields.io/badge/just%20the%20Email-contact.mhayat@gmail.com-8A2BE2)](mailto:contact.mhayat@gmail.com)
+- LinkedIn: [![Muhammad Hayat Ishfaq](https://img.shields.io/badge/just%20the%20Muhammad%20Hayat%20Ishfaq-8A2BE2)](https://www.linkedin.com/in/hayat-ishfaq)
 
 <!-- Thank you message -->
 ## 🙏 Thanks For Visiting
