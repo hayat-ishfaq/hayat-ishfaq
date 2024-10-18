@@ -7,9 +7,6 @@
 ## 📚 Education
 - Undergraduate in Software Engineering from # [![Air University Islamabad](https://img.shields.io/badge/AIR%20University%20Islamabad-8A2BE2)](https://au.edu.pk)
 
-<!-- Portfolio Website -->
-## 💼 Portfolio Website
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-8A2BE2])()
 
 <!-- Interests -->
 ## 🎯 Interests
